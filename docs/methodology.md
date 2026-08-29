@@ -92,3 +92,17 @@ The dashboard should help viewers quickly understand:
 - Recommended resources and next steps
 
 The dashboard is a communication layer, not the analytical engine. The core logic should remain in Python and SQL so the process is reproducible.
+
+Note: The Data Analyst role will initially use O*NET's Data Scientists occupation as a proxy because O*NET does not provide a perfect one-to-one entry-level Data Analyst match. This limitation is documented in `docs/assumptions_limitations.md`.
+
+## Target Roles
+
+The MVP focuses on three roles:
+
+- BI Analyst
+- Data Analyst
+- Software Developer
+
+These roles were selected because they represent different but related technical career paths. BI Analyst emphasizes dashboards, reporting, and business intelligence. Data Analyst emphasizes data cleaning, analysis, and interpretation. Software Developer provides a comparison role focused more heavily on programming, application development, testing, and software design.
+
+The role mapping is stored in `data/reference/target_roles.csv`.

@@ -1,0 +1,4 @@
+project_role,onet_occupation,onet_code,notes
+BI Analyst,Business Intelligence Analysts,15-2051.01,Strong match for dashboarding reporting and business intelligence work
+Data Analyst,Data Scientists,15-2051.00,Proxy for data analyst because O*NET does not have a perfect entry-level data analyst match
+Software Developer,Software Developers,15-1252.00,Strong match for software development work
