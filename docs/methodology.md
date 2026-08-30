@@ -18,15 +18,17 @@ The planned workflow is:
 8. Produce transparent skill-gap priorities.
 9. Map priority skills to Rutgers and public resources.
 
-## Initial Target Roles
+## Target Roles
 
-The MVP will likely begin with these roles:
+The MVP focuses on three roles:
 
-- Business Intelligence Analyst
-- Operations Analyst
-- Data Analyst or Reporting Analyst
+- BI Analyst
+- Data Analyst
+- Software Developer
 
-Final role selection will depend on how cleanly each role maps to available public occupation data.
+These roles were selected because they represent different but related technical career paths. BI Analyst emphasizes dashboards, reporting, and business intelligence. Data Analyst emphasizes data cleaning, analysis, and interpretation. Software Developer provides a comparison role focused more heavily on programming, application development, testing, and software design.
+
+The role mapping is stored in `data/reference/target_roles.csv`.
 
 ## Primary Data Source
 
@@ -40,6 +42,18 @@ Important distinction:
 - O*NET does not represent live entry-level job postings by itself.
 
 Because of that, any claim based only on O*NET will be framed as occupation-based skill expectations, not a complete picture of the live job market.
+
+## O*NET Data Plan
+
+For each target role, the project will collect:
+
+- Occupation title and O*NET-SOC code
+- Skills
+- Knowledge areas
+- Tasks
+- Technology skills or tools, if available
+
+The first O*NET ingestion step will use the role mappings in `data/reference/target_roles.csv` to determine which occupations are in scope.
 
 ## Possible Additional Sources
 
@@ -94,15 +108,3 @@ The dashboard should help viewers quickly understand:
 The dashboard is a communication layer, not the analytical engine. The core logic should remain in Python and SQL so the process is reproducible.
 
 Note: The Data Analyst role will initially use O*NET's Data Scientists occupation as a proxy because O*NET does not provide a perfect one-to-one entry-level Data Analyst match. This limitation is documented in `docs/assumptions_limitations.md`.
-
-## Target Roles
-
-The MVP focuses on three roles:
-
-- BI Analyst
-- Data Analyst
-- Software Developer
-
-These roles were selected because they represent different but related technical career paths. BI Analyst emphasizes dashboards, reporting, and business intelligence. Data Analyst emphasizes data cleaning, analysis, and interpretation. Software Developer provides a comparison role focused more heavily on programming, application development, testing, and software design.
-
-The role mapping is stored in `data/reference/target_roles.csv`.
