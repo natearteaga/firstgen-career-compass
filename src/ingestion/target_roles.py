@@ -10,7 +10,18 @@ TARGET_ROLES_FILE = PROJECT_ROOT / "data" / "reference" / "target_roles.csv"
 def load_target_roles():
     with TARGET_ROLES_FILE.open(mode="r", newline="",encoding="utf-8") as file:
         reader = csv.DictReader(file)
-        return list(reader)
+        required_columns = {"project_role", "onet_occupation", "onet_code", "notes"}
+        actual_columns = set(reader.fieldnames or [])
+        missing_columns = required_columns - actual_columns
+
+        if missing_columns:
+            raise ValueError(f"Missing required columns: {missing_columns}")
+
+        roles = list(reader)
+
+        if not roles:
+            raise ValueError("No target roles found in {TARGET_ROLES_FILE}")
+        return roles
 
 # main function to demonstrate reading the target roles
 def main():
