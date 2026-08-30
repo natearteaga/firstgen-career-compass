@@ -1,0 +1,721 @@
+role_title,software_or_tool,software_category,hot_technology,in_demand
+Business Intelligence Analysts,Amazon Web Services AWS software,Data base user interface and query software,Y,Y
+Business Intelligence Analysts,Microsoft Azure software,Development environment software,Y,Y
+Business Intelligence Analysts,Microsoft Excel,Spreadsheet software,Y,Y
+Business Intelligence Analysts,Microsoft Office software,Office suite software,Y,Y
+Business Intelligence Analysts,Microsoft Power BI,Business intelligence and data analysis software,Y,Y
+Business Intelligence Analysts,Microsoft PowerPoint,Presentation software,Y,Y
+Business Intelligence Analysts,Python,Object or component oriented development software,Y,Y
+Business Intelligence Analysts,R,Object or component oriented development software,Y,Y
+Business Intelligence Analysts,SAP software,Enterprise resource planning ERP software,Y,Y
+Business Intelligence Analysts,SAS,Analytical or scientific software,Y,Y
+Business Intelligence Analysts,Salesforce software,Customer relationship management CRM software,Y,Y
+Business Intelligence Analysts,Snowflake,Data mining software,Y,Y
+Business Intelligence Analysts,Structured query language SQL,Data base user interface and query software,Y,Y
+Business Intelligence Analysts,Tableau,Business intelligence and data analysis software,Y,Y
+Business Intelligence Analysts,AJAX,Web platform development software,Y,N
+Business Intelligence Analysts,Adobe Acrobat,Document management software,Y,N
+Business Intelligence Analysts,Alteryx software,Business intelligence and data analysis software,Y,N
+Business Intelligence Analysts,Amazon DynamoDB,Data base management system software,Y,N
+Business Intelligence Analysts,Amazon Elastic Compute Cloud EC2,Data base user interface and query software,Y,N
+Business Intelligence Analysts,Amazon Redshift,Data base user interface and query software,Y,N
+Business Intelligence Analysts,Apache Cassandra,Data base management system software,Y,N
+Business Intelligence Analysts,Apache Hadoop,Data base management system software,Y,N
+Business Intelligence Analysts,Apache Hive,Data base management system software,Y,N
+Business Intelligence Analysts,Apache Kafka,Development environment software,Y,N
+Business Intelligence Analysts,Apache Spark,Business intelligence and data analysis software,Y,N
+Business Intelligence Analysts,Apache Tomcat,Web platform development software,Y,N
+Business Intelligence Analysts,Atlassian Confluence,Project management software,Y,N
+Business Intelligence Analysts,Atlassian JIRA,Content workflow software,Y,N
+Business Intelligence Analysts,Bash,Operating system software,Y,N
+Business Intelligence Analysts,C,Development environment software,Y,N
+Business Intelligence Analysts,C#,Object or component oriented development software,Y,N
+Business Intelligence Analysts,C++,Object or component oriented development software,Y,N
+Business Intelligence Analysts,Django,Web platform development software,Y,N
+Business Intelligence Analysts,ESRI ArcGIS software,Geographic information system,Y,N
+Business Intelligence Analysts,Eclipse IDE,Development environment software,Y,N
+Business Intelligence Analysts,Elasticsearch,Data base management system software,Y,N
+Business Intelligence Analysts,Epic Systems,Medical software,Y,N
+Business Intelligence Analysts,Extensible markup language XML,Enterprise application integration software,Y,N
+Business Intelligence Analysts,Facebook,Web page creation and editing software,Y,N
+Business Intelligence Analysts,Git,File versioning software,Y,N
+Business Intelligence Analysts,GitHub,Application server software,Y,N
+Business Intelligence Analysts,Go,Development environment software,Y,N
+Business Intelligence Analysts,Google Analytics,Data mining software,Y,N
+Business Intelligence Analysts,Google Docs,Word processing software,Y,N
+Business Intelligence Analysts,Google Looker Analytics,Business intelligence and data analysis software,Y,N
+Business Intelligence Analysts,Hibernate ORM,Object oriented data base management software,Y,N
+Business Intelligence Analysts,Hypertext markup language HTML,Web platform development software,Y,N
+Business Intelligence Analysts,IBM DB2,Data base user interface and query software,Y,N
+Business Intelligence Analysts,IBM SPSS Statistics,Analytical or scientific software,Y,N
+Business Intelligence Analysts,Informatica software,Metadata management software,Y,N
+Business Intelligence Analysts,JavaScript,Web platform development software,Y,N
+Business Intelligence Analysts,JavaScript Object Notation JSON,Web platform development software,Y,N
+Business Intelligence Analysts,Linux,Operating system software,Y,N
+Business Intelligence Analysts,MEDITECH software,Medical software,Y,N
+Business Intelligence Analysts,Marketo Marketing Automation,Sales and marketing software,Y,N
+Business Intelligence Analysts,Microsoft .NET Framework,Development environment software,Y,N
+Business Intelligence Analysts,Microsoft ASP.NET,Web platform development software,Y,N
+Business Intelligence Analysts,Microsoft Access,Data base user interface and query software,Y,N
+Business Intelligence Analysts,Microsoft Active Server Pages ASP,Web platform development software,Y,N
+Business Intelligence Analysts,Microsoft Outlook,Electronic mail software,Y,N
+Business Intelligence Analysts,Microsoft Power Automate,Enterprise application integration software,Y,N
+Business Intelligence Analysts,Microsoft Power Platform software,Enterprise application integration software,Y,N
+Business Intelligence Analysts,Microsoft PowerShell,Development environment software,Y,N
+Business Intelligence Analysts,Microsoft Project,Project management software,Y,N
+Business Intelligence Analysts,Microsoft SQL Server,Data base user interface and query software,Y,N
+Business Intelligence Analysts,Microsoft SQL Server Integration Services SSIS,Enterprise application integration software,Y,N
+Business Intelligence Analysts,Microsoft SQL Server Reporting Services SSRS,Data base reporting software,Y,N
+Business Intelligence Analysts,Microsoft SharePoint,Document management software,Y,N
+Business Intelligence Analysts,Microsoft Visio,Process mapping and design software,Y,N
+Business Intelligence Analysts,Microsoft Visual Basic,Development environment software,Y,N
+Business Intelligence Analysts,Microsoft Visual Basic for Applications VBA,Development environment software,Y,N
+Business Intelligence Analysts,Microsoft Visual Studio,Development environment software,Y,N
+Business Intelligence Analysts,Microsoft Windows Server,Operating system software,Y,N
+Business Intelligence Analysts,Microsoft Word,Word processing software,Y,N
+Business Intelligence Analysts,MongoDB,Data base management system software,Y,N
+Business Intelligence Analysts,MySQL,Data base management system software,Y,N
+Business Intelligence Analysts,NoSQL,Data base management system software,Y,N
+Business Intelligence Analysts,Oracle Cloud software,Cloud-based management software,Y,N
+Business Intelligence Analysts,Oracle Database,Data base user interface and query software,Y,N
+Business Intelligence Analysts,Oracle Java,Object or component oriented development software,Y,N
+Business Intelligence Analysts,Oracle PL/SQL,Data base management system software,Y,N
+Business Intelligence Analysts,Oracle PeopleSoft,Enterprise resource planning ERP software,Y,N
+Business Intelligence Analysts,Oracle Primavera Enterprise Project Portfolio Management,Project management software,Y,N
+Business Intelligence Analysts,Oracle SQL Developer,Development environment software,Y,N
+Business Intelligence Analysts,PHP,Web platform development software,Y,N
+Business Intelligence Analysts,Perl,Object or component oriented development software,Y,N
+Business Intelligence Analysts,PostgreSQL,Object oriented data base management software,Y,N
+Business Intelligence Analysts,Red Hat Enterprise Linux,Operating system software,Y,N
+Business Intelligence Analysts,Ruby,Development environment software,Y,N
+Business Intelligence Analysts,SAP ERP,Enterprise resource planning ERP software,Y,N
+Business Intelligence Analysts,Scala,Object or component oriented development software,Y,N
+Business Intelligence Analysts,Shell script,Operating system software,Y,N
+Business Intelligence Analysts,Splunk Enterprise,Cloud-based management software,Y,N
+Business Intelligence Analysts,Swift,Object or component oriented development software,Y,N
+Business Intelligence Analysts,Teradata Database,Data base management system software,Y,N
+Business Intelligence Analysts,The MathWorks MATLAB,Analytical or scientific software,Y,N
+Business Intelligence Analysts,Transact-SQL,Data base user interface and query software,Y,N
+Business Intelligence Analysts,UNIX,Operating system software,Y,N
+Business Intelligence Analysts,UNIX Shell,Operating system software,Y,N
+Business Intelligence Analysts,jQuery,Object or component oriented development software,Y,N
+Business Intelligence Analysts,Actuate Eclipse BIRT,Data base reporting software,N,N
+Business Intelligence Analysts,Adobe ActionScript,Development environment software,N,N
+Business Intelligence Analysts,Adobe Dreamweaver,Web page creation and editing software,N,N
+Business Intelligence Analysts,Advanced business application programming ABAP,Object or component oriented development software,N,N
+Business Intelligence Analysts,Airtable,Data base user interface and query software,N,N
+Business Intelligence Analysts,Apache Ant,Development environment software,N,N
+Business Intelligence Analysts,Apache Groovy,Object or component oriented development software,N,N
+Business Intelligence Analysts,Apache HTTP Server,Portal server software,N,N
+Business Intelligence Analysts,Apache Pig,Data base management system software,N,N
+Business Intelligence Analysts,Apache Solr,Data base management system software,N,N
+Business Intelligence Analysts,Apache Struts,Web platform development software,N,N
+Business Intelligence Analysts,Blackbaud The Raiser's Edge,Customer relationship management CRM software,N,N
+Business Intelligence Analysts,Business Objects Data Integrator,Development environment software,N,N
+Business Intelligence Analysts,Citrix cloud computing software,Access software,N,N
+Business Intelligence Analysts,Common business oriented language COBOL,Development environment software,N,N
+Business Intelligence Analysts,Customer information control system CICS,Transaction server software,N,N
+Business Intelligence Analysts,Data modeling software,Metadata management software,N,N
+Business Intelligence Analysts,Data warehouse software,Data mining software,N,N
+Business Intelligence Analysts,Database software,Data base user interface and query software,N,N
+Business Intelligence Analysts,Delphi Technology,Financial analysis software,N,N
+Business Intelligence Analysts,Drupal,Web platform development software,N,N
+Business Intelligence Analysts,Dynamic hypertext markup language DHTML,Web platform development software,N,N
+Business Intelligence Analysts,Eko,Desktop communications software,N,N
+Business Intelligence Analysts,Enterprise JavaBeans,Web platform development software,N,N
+Business Intelligence Analysts,Ext JS,Web platform development software,N,N
+Business Intelligence Analysts,Extensible hypertext markup language XHTML,Web platform development software,N,N
+Business Intelligence Analysts,FileMaker Pro,Data base user interface and query software,N,N
+Business Intelligence Analysts,Fund accounting software,Accounting software,N,N
+Business Intelligence Analysts,Geographic information system GIS software,Geographic information system,N,N
+Business Intelligence Analysts,Google Ads,Sales and marketing software,N,N
+Business Intelligence Analysts,Google Sites,Web page creation and editing software,N,N
+Business Intelligence Analysts,Google Slides,Presentation software,N,N
+Business Intelligence Analysts,Healthcare common procedure coding system HCPCS,Medical software,N,N
+Business Intelligence Analysts,Hewlett Packard HP-UX,Operating system software,N,N
+Business Intelligence Analysts,Hewlett Packard LoadRunner,Program testing software,N,N
+Business Intelligence Analysts,Human resource management software HRMS,Human resources software,N,N
+Business Intelligence Analysts,IBM Cognos Impromptu,Business intelligence and data analysis software,N,N
+Business Intelligence Analysts,IBM Domino,Communications server software,N,N
+Business Intelligence Analysts,IBM InfoSphere DataStage,Enterprise application integration software,N,N
+Business Intelligence Analysts,IBM Notes,Electronic mail software,N,N
+Business Intelligence Analysts,IBM Power Systems software,Enterprise system management software,N,N
+Business Intelligence Analysts,IBM Unica Enterprise,Financial analysis software,N,N
+Business Intelligence Analysts,IBM WebSphere,Cloud-based management software,N,N
+Business Intelligence Analysts,Informatica Data Explorer,Data mining software,N,N
+Business Intelligence Analysts,Information Builders WebFOCUS,Data base reporting software,N,N
+Business Intelligence Analysts,Integrated development environment IDE software,Development environment software,N,N
+Business Intelligence Analysts,Job control language JCL,Operating system software,N,N
+Business Intelligence Analysts,Jupyter Notebook,Object or component oriented development software,N,N
+Business Intelligence Analysts,KornShell,Operating system software,N,N
+Business Intelligence Analysts,LexisNexis,Information retrieval or search software,N,N
+Business Intelligence Analysts,McAfee,Transaction security and virus protection software,N,N
+Business Intelligence Analysts,Medical condition coding software,Medical software,N,N
+Business Intelligence Analysts,Medical procedure coding software,Medical software,N,N
+Business Intelligence Analysts,MicroStrategy,Business intelligence and data analysis software,N,N
+Business Intelligence Analysts,Microsoft ActiveX,Object or component oriented development software,N,N
+Business Intelligence Analysts,Microsoft Dynamics,Enterprise resource planning ERP software,N,N
+Business Intelligence Analysts,Microsoft Dynamics GP,Enterprise resource planning ERP software,N,N
+Business Intelligence Analysts,Microsoft Exchange,Electronic mail software,N,N
+Business Intelligence Analysts,Microsoft Proclarity,Data base reporting software,N,N
+Business Intelligence Analysts,Microsoft Publisher,Desktop publishing software,N,N
+Business Intelligence Analysts,Microsoft Visual Basic Scripting Edition VBScript,Development environment software,N,N
+Business Intelligence Analysts,Minitab,Analytical or scientific software,N,N
+Business Intelligence Analysts,Nagios,Network monitoring software,N,N
+Business Intelligence Analysts,NetSuite ERP,Enterprise resource planning ERP software,N,N
+Business Intelligence Analysts,NortonLifeLock cybersecurity software,Transaction security and virus protection software,N,N
+Business Intelligence Analysts,Oracle Business Intelligence Enterprise Edition,Business intelligence and data analysis software,N,N
+Business Intelligence Analysts,Oracle E-Business Suite Financials,Financial analysis software,N,N
+Business Intelligence Analysts,Oracle Eloqua,Customer relationship management CRM software,N,N
+Business Intelligence Analysts,Oracle Essbase,Data base user interface and query software,N,N
+Business Intelligence Analysts,Oracle Fusion Applications,Enterprise resource planning ERP software,N,N
+Business Intelligence Analysts,Oracle Hyperion,Enterprise resource planning ERP software,N,N
+Business Intelligence Analysts,Oracle JD Edwards EnterpriseOne,Enterprise resource planning ERP software,N,N
+Business Intelligence Analysts,Oracle JDBC,Data base user interface and query software,N,N
+Business Intelligence Analysts,Oracle JavaServer Pages JSP,Web platform development software,N,N
+Business Intelligence Analysts,Oracle PeopleSoft Financials,Enterprise resource planning ERP software,N,N
+Business Intelligence Analysts,Oracle Siebel Marketing Resource Management,Customer relationship management CRM software,N,N
+Business Intelligence Analysts,Oracle Solaris,Operating system software,N,N
+Business Intelligence Analysts,Oracle Taleo,Human resources software,N,N
+Business Intelligence Analysts,Oracle WebLogic Server,Application server software,N,N
+Business Intelligence Analysts,PTC Creo Parametric,Computer aided design CAD software,N,N
+Business Intelligence Analysts,Panorama NovaView,Data base reporting software,N,N
+Business Intelligence Analysts,Qlik Tech QlikView,Business intelligence and data analysis software,N,N
+Business Intelligence Analysts,Quest Erwin Data Modeler,Metadata management software,N,N
+Business Intelligence Analysts,Red Hat WildFly,Application server software,N,N
+Business Intelligence Analysts,Relational database management software,Data base management system software,N,N
+Business Intelligence Analysts,Reporting software,Data base reporting software,N,N
+Business Intelligence Analysts,Rogue Wave Software IMSL Numerical Libraries,Analytical or scientific software,N,N
+Business Intelligence Analysts,Ruby on Rails,Web platform development software,N,N
+Business Intelligence Analysts,SAP Business Objects,Enterprise resource planning ERP software,N,N
+Business Intelligence Analysts,SAP BusinessObjects Data Integrator,Enterprise application integration software,N,N
+Business Intelligence Analysts,SAP Crystal Reports,Data base reporting software,N,N
+Business Intelligence Analysts,SAP NetWeaver BW,Data mining software,N,N
+Business Intelligence Analysts,Salesforce Visualforce,Graphical user interface development software,N,N
+Business Intelligence Analysts,SiSense Prism,Data base reporting software,N,N
+Business Intelligence Analysts,Skype,Desktop communications software,N,N
+Business Intelligence Analysts,StataCorp Stata,Analytical or scientific software,N,N
+Business Intelligence Analysts,Tax software,Accounting software,N,N
+Business Intelligence Analysts,Ubuntu,Operating system software,N,N
+Business Intelligence Analysts,Unified modeling language UML,Requirements analysis and system architecture software,N,N
+Business Intelligence Analysts,Veritas NetBackup,Backup or archival software,N,N
+Business Intelligence Analysts,Virtual private networking VPN software,Network security and virtual private network VPN equipment software,N,N
+Business Intelligence Analysts,Wireshark,Network monitoring software,N,N
+Business Intelligence Analysts,YouTube,Video creation and editing software,N,N
+Data Scientists,Amazon Web Services AWS software,Data base user interface and query software,Y,Y
+Data Scientists,Apache Hadoop,Data base management system software,Y,Y
+Data Scientists,Apache Spark,Business intelligence and data analysis software,Y,Y
+Data Scientists,C++,Object or component oriented development software,Y,Y
+Data Scientists,Git,File versioning software,Y,Y
+Data Scientists,Microsoft Azure software,Development environment software,Y,Y
+Data Scientists,Microsoft Excel,Spreadsheet software,Y,Y
+Data Scientists,Microsoft Power BI,Business intelligence and data analysis software,Y,Y
+Data Scientists,Microsoft PowerPoint,Presentation software,Y,Y
+Data Scientists,PyTorch,Data base user interface and query software,Y,Y
+Data Scientists,Python,Object or component oriented development software,Y,Y
+Data Scientists,R,Object or component oriented development software,Y,Y
+Data Scientists,SAS,Analytical or scientific software,Y,Y
+Data Scientists,Snowflake,Data mining software,Y,Y
+Data Scientists,Structured query language SQL,Data base user interface and query software,Y,Y
+Data Scientists,Tableau,Business intelligence and data analysis software,Y,Y
+Data Scientists,TensorFlow,Analytical or scientific software,Y,Y
+Data Scientists,The MathWorks MATLAB,Analytical or scientific software,Y,Y
+Data Scientists,NumPy,Data base user interface and query software,N,Y
+Data Scientists,Scikit-learn,Development environment software,N,Y
+Data Scientists,pandas,Data base user interface and query software,N,Y
+Data Scientists,Alteryx software,Business intelligence and data analysis software,Y,N
+Data Scientists,Amazon Elastic Compute Cloud EC2,Data base user interface and query software,Y,N
+Data Scientists,Amazon Redshift,Data base user interface and query software,Y,N
+Data Scientists,Apache Airflow,Procedure management software,Y,N
+Data Scientists,Apache Cassandra,Data base management system software,Y,N
+Data Scientists,Apache Hive,Data base management system software,Y,N
+Data Scientists,Apache Kafka,Development environment software,Y,N
+Data Scientists,Atlassian Confluence,Project management software,Y,N
+Data Scientists,Atlassian JIRA,Content workflow software,Y,N
+Data Scientists,Bash,Operating system software,Y,N
+Data Scientists,C,Development environment software,Y,N
+Data Scientists,C#,Object or component oriented development software,Y,N
+Data Scientists,Docker,Application server software,Y,N
+Data Scientists,Elasticsearch,Data base management system software,Y,N
+Data Scientists,GitHub,Application server software,Y,N
+Data Scientists,Go,Development environment software,Y,N
+Data Scientists,Google Looker Analytics,Business intelligence and data analysis software,Y,N
+Data Scientists,IBM SPSS Statistics,Analytical or scientific software,Y,N
+Data Scientists,JavaScript,Web platform development software,Y,N
+Data Scientists,JavaScript Object Notation JSON,Web platform development software,Y,N
+Data Scientists,Jenkins CI,Enterprise application integration software,Y,N
+Data Scientists,Kubernetes,Application server software,Y,N
+Data Scientists,Linux,Operating system software,Y,N
+Data Scientists,Microsoft Access,Data base user interface and query software,Y,N
+Data Scientists,Microsoft Office software,Office suite software,Y,N
+Data Scientists,Microsoft SQL Server,Data base user interface and query software,Y,N
+Data Scientists,MongoDB,Data base management system software,Y,N
+Data Scientists,NoSQL,Data base management system software,Y,N
+Data Scientists,Oracle Java,Object or component oriented development software,Y,N
+Data Scientists,Perl,Object or component oriented development software,Y,N
+Data Scientists,PostgreSQL,Object oriented data base management software,Y,N
+Data Scientists,Ruby,Development environment software,Y,N
+Data Scientists,Scala,Object or component oriented development software,Y,N
+Data Scientists,Shell script,Operating system software,Y,N
+Data Scientists,Splunk Enterprise,Enterprise system management software,Y,N
+Data Scientists,Teradata Database,Data base management system software,Y,N
+Data Scientists,UNIX,Operating system software,Y,N
+Data Scientists,Amazon Simple Storage Service S3,Storage networking software,N,N
+Data Scientists,Amazon Web Services AWS SageMaker,Cloud-based management software,N,N
+Data Scientists,Apache MXNet,Industrial control software,N,N
+Data Scientists,Apache Pig,Data base management system software,N,N
+Data Scientists,BigQuery,Data base user interface and query software,N,N
+Data Scientists,Business intelligence software,Business intelligence and data analysis software,N,N
+Data Scientists,Flask,Development environment software,N,N
+Data Scientists,Geographic information system GIS systems,Geographic information system,N,N
+Data Scientists,Google Cloud software,Cloud-based management software,N,N
+Data Scientists,Julia,Development environment software,N,N
+Data Scientists,Jupyter software,Object or component oriented development software,N,N
+Data Scientists,Keras,Operating system software,N,N
+Data Scientists,Kubeflow,Analytical or scientific software,N,N
+Data Scientists,Management information systems MIS,Enterprise resource planning ERP software,N,N
+Data Scientists,MapReduce big data software,Business intelligence and data analysis software,N,N
+Data Scientists,Mathematical software,Analytical or scientific software,N,N
+Data Scientists,Mlflow,Analytical or scientific software,N,N
+Data Scientists,Neo4j,Data base user interface and query software,N,N
+Data Scientists,OpenAI ChatGPT,Development environment software,N,N
+Data Scientists,PySpark,Data base user interface and query software,N,N
+Data Scientists,Qlik Tech QlikView,Business intelligence and data analysis software,N,N
+Data Scientists,RESTful API,Web platform development software,N,N
+Data Scientists,Reporting software,Data base reporting software,N,N
+Data Scientists,SciPy,Object or component oriented development software,N,N
+Data Scientists,Shiny,Object or component oriented development software,N,N
+Data Scientists,StataCorp Stata,Analytical or scientific software,N,N
+Data Scientists,Statistical software,Analytical or scientific software,N,N
+Data Scientists,XGBoost,Development environment software,N,N
+Data Scientists,spaCy,Object or component oriented development software,N,N
+Software Developers,Amazon Web Services AWS software,Data base user interface and query software,Y,Y
+Software Developers,Apache Kafka,Development environment software,Y,Y
+Software Developers,Atlassian JIRA,Content workflow software,Y,Y
+Software Developers,C,Development environment software,Y,Y
+Software Developers,C#,Object or component oriented development software,Y,Y
+Software Developers,C++,Object or component oriented development software,Y,Y
+Software Developers,Cascading style sheets CSS,Web platform development software,Y,Y
+Software Developers,Docker,Application server software,Y,Y
+Software Developers,Git,File versioning software,Y,Y
+Software Developers,GitHub,Application server software,Y,Y
+Software Developers,Go,Development environment software,Y,Y
+Software Developers,Google Angular,Web platform development software,Y,Y
+Software Developers,Hypertext markup language HTML,Web platform development software,Y,Y
+Software Developers,IBM Terraform,Configuration management software,Y,Y
+Software Developers,JavaScript,Web platform development software,Y,Y
+Software Developers,Jenkins CI,Enterprise application integration software,Y,Y
+Software Developers,Kubernetes,Application server software,Y,Y
+Software Developers,Linux,Operating system software,Y,Y
+Software Developers,Microsoft Azure software,Development environment software,Y,Y
+Software Developers,NoSQL,Data base management system software,Y,Y
+Software Developers,Node.js,Web platform development software,Y,Y
+Software Developers,Oracle Java,Object or component oriented development software,Y,Y
+Software Developers,PostgreSQL,Object oriented data base management software,Y,Y
+Software Developers,Python,Object or component oriented development software,Y,Y
+Software Developers,React,Web platform development software,Y,Y
+Software Developers,Spring Boot,Application server software,Y,Y
+Software Developers,Spring Framework,Web platform development software,Y,Y
+Software Developers,Structured query language SQL,Data base user interface and query software,Y,Y
+Software Developers,TypeScript,Object or component oriented development software,Y,Y
+Software Developers,RESTful API,Web platform development software,N,Y
+Software Developers,AJAX,Web platform development software,Y,N
+Software Developers,Adobe Acrobat,Document management software,Y,N
+Software Developers,Adobe After Effects,Video creation and editing software,Y,N
+Software Developers,Adobe Creative Cloud software,Graphics or photo imaging software,Y,N
+Software Developers,Adobe Illustrator,Graphics or photo imaging software,Y,N
+Software Developers,Adobe InDesign,Desktop publishing software,Y,N
+Software Developers,Adobe Photoshop,Graphics or photo imaging software,Y,N
+Software Developers,Alteryx software,Business intelligence and data analysis software,Y,N
+Software Developers,Amazon DynamoDB,Data base management system software,Y,N
+Software Developers,Amazon Elastic Compute Cloud EC2,Data base user interface and query software,Y,N
+Software Developers,Amazon Redshift,Data base user interface and query software,Y,N
+Software Developers,Amazon Web Services AWS CloudFormation,Cloud-based management software,Y,N
+Software Developers,Ansible software,Expert system software,Y,N
+Software Developers,Apache Airflow,Procedure management software,Y,N
+Software Developers,Apache Cassandra,Data base management system software,Y,N
+Software Developers,Apache Hadoop,Data base management system software,Y,N
+Software Developers,Apache Hive,Data base user interface and query software,Y,N
+Software Developers,Apache Maven,Development environment software,Y,N
+Software Developers,Apache Spark,Object or component oriented development software,Y,N
+Software Developers,Apache Subversion SVN,File versioning software,Y,N
+Software Developers,Apache Tomcat,Web platform development software,Y,N
+Software Developers,Apple iOS,Operating system software,Y,N
+Software Developers,Apple macOS,Operating system software,Y,N
+Software Developers,Atlassian Bitbucket,Application server software,Y,N
+Software Developers,Atlassian Confluence,Project management software,Y,N
+Software Developers,Bash,Operating system software,Y,N
+Software Developers,Bootstrap,Web platform development software,Y,N
+Software Developers,Border Gateway Protocol BGP,Switch or router software,Y,N
+Software Developers,Chef,Configuration management software,Y,N
+Software Developers,Cisco Webex,Video conferencing software,Y,N
+Software Developers,Django,Web platform development software,Y,N
+Software Developers,ESRI ArcGIS software,Map creation software,Y,N
+Software Developers,Eclipse IDE,Development environment software,Y,N
+Software Developers,Elasticsearch,Data base management system software,Y,N
+Software Developers,Extensible markup language XML,Enterprise application integration software,Y,N
+Software Developers,Figma,Graphical user interface development software,Y,N
+Software Developers,GitLab,Application server software,Y,N
+Software Developers,Google Analytics,Data mining software,Y,N
+Software Developers,Google Android,Operating system software,Y,N
+Software Developers,Google Docs,Word processing software,Y,N
+Software Developers,Google Looker Analytics,Business intelligence and data analysis software,Y,N
+Software Developers,Google Sheets,Spreadsheet software,Y,N
+Software Developers,Grafana Labs Grafana Cloud,Graphical user interface development software,Y,N
+Software Developers,GraphQL,Data base user interface and query software,Y,N
+Software Developers,Hibernate ORM,Object oriented data base management software,Y,N
+Software Developers,IBM DB2,Data base user interface and query software,Y,N
+Software Developers,IBM SPSS Statistics,Analytical or scientific software,Y,N
+Software Developers,IBM WebSphere MQ,Cloud-based management software,Y,N
+Software Developers,Informatica software,Metadata management software,Y,N
+Software Developers,JUnit,Program testing software,Y,N
+Software Developers,JavaScript Object Notation JSON,Web platform development software,Y,N
+Software Developers,Marketo Marketing Automation,Sales and marketing software,Y,N
+Software Developers,Microsoft .NET Framework,Development environment software,Y,N
+Software Developers,Microsoft ASP.NET,Web platform development software,Y,N
+Software Developers,Microsoft Access,Data base user interface and query software,Y,N
+Software Developers,Microsoft Active Directory,Internet directory services software,Y,N
+Software Developers,Microsoft Active Server Pages ASP,Web platform development software,Y,N
+Software Developers,Microsoft Excel,Spreadsheet software,Y,N
+Software Developers,Microsoft Office software,Office suite software,Y,N
+Software Developers,Microsoft Outlook,Electronic mail software,Y,N
+Software Developers,Microsoft Power Automate,Enterprise application integration software,Y,N
+Software Developers,Microsoft Power BI,Business intelligence and data analysis software,Y,N
+Software Developers,Microsoft Power Platform software,Enterprise application integration software,Y,N
+Software Developers,Microsoft PowerPoint,Presentation software,Y,N
+Software Developers,Microsoft PowerShell,Development environment software,Y,N
+Software Developers,Microsoft Project,Project management software,Y,N
+Software Developers,Microsoft SQL Server,Data base user interface and query software,Y,N
+Software Developers,Microsoft SQL Server Integration Services SSIS,Enterprise application integration software,Y,N
+Software Developers,Microsoft SQL Server Reporting Services SSRS,Data base reporting software,Y,N
+Software Developers,Microsoft SharePoint,Document management software,Y,N
+Software Developers,Microsoft Team Foundation Server,Project management software,Y,N
+Software Developers,Microsoft Teams,Project management software,Y,N
+Software Developers,Microsoft Visio,Process mapping and design software,Y,N
+Software Developers,Microsoft Visual Basic,Development environment software,Y,N
+Software Developers,Microsoft Visual Basic for Applications VBA,Development environment software,Y,N
+Software Developers,Microsoft Visual Studio,Development environment software,Y,N
+Software Developers,Microsoft Windows,Operating system software,Y,N
+Software Developers,Microsoft Windows Server,Operating system software,Y,N
+Software Developers,Microsoft Word,Word processing software,Y,N
+Software Developers,MongoDB,Data base management system software,Y,N
+Software Developers,MySQL,Data base user interface and query software,Y,N
+Software Developers,Oracle Cloud software,Cloud-based management software,Y,N
+Software Developers,Oracle Database,Data base management system software,Y,N
+Software Developers,Oracle Java 2 Platform Enterprise Edition J2EE,Development environment software,Y,N
+Software Developers,Oracle PL/SQL,Data base management system software,Y,N
+Software Developers,Oracle PeopleSoft,Enterprise resource planning ERP software,Y,N
+Software Developers,Oracle Primavera Enterprise Project Portfolio Management,Project management software,Y,N
+Software Developers,Oracle SQL Developer,Development environment software,Y,N
+Software Developers,PHP,Web platform development software,Y,N
+Software Developers,Perl,Object or component oriented development software,Y,N
+Software Developers,Prometheus,Data base user interface and query software,Y,N
+Software Developers,Puppet,Configuration management software,Y,N
+Software Developers,PyTorch,Data base user interface and query software,Y,N
+Software Developers,R,Object or component oriented development software,Y,N
+Software Developers,Red Hat Enterprise Linux,Operating system software,Y,N
+Software Developers,Red Hat OpenShift,Application server software,Y,N
+Software Developers,Redis,Data base management system software,Y,N
+Software Developers,Ruby,Development environment software,Y,N
+Software Developers,SAP ERP,Enterprise resource planning ERP software,Y,N
+Software Developers,SAP software,Enterprise resource planning ERP software,Y,N
+Software Developers,SAS,Analytical or scientific software,Y,N
+Software Developers,Salesforce software,Customer relationship management CRM software,Y,N
+Software Developers,Scala,Object or component oriented development software,Y,N
+Software Developers,Selenium,Program testing software,Y,N
+Software Developers,ServiceNow,Data base user interface and query software,Y,N
+Software Developers,Shell script,Operating system software,Y,N
+Software Developers,Slack,Cloud-based data access and sharing software,Y,N
+Software Developers,Snowflake,Data mining software,Y,N
+Software Developers,Splunk Enterprise,Cloud-based management software,Y,N
+Software Developers,Swift,Object or component oriented development software,Y,N
+Software Developers,Tableau,Business intelligence and data analysis software,Y,N
+Software Developers,TensorFlow,Analytical or scientific software,Y,N
+Software Developers,Teradata Database,Data base management system software,Y,N
+Software Developers,The MathWorks MATLAB,Analytical or scientific software,Y,N
+Software Developers,Transact-SQL,Data base user interface and query software,Y,N
+Software Developers,Trimble SketchUp Pro,Graphics or photo imaging software,Y,N
+Software Developers,UNIX,Operating system software,Y,N
+Software Developers,UNIX Shell,Operating system software,Y,N
+Software Developers,Vue.js,Web platform development software,Y,N
+Software Developers,WordPress,Web page creation and editing software,Y,N
+Software Developers,Workday software,Enterprise resource planning ERP software,Y,N
+Software Developers,Zoom,Video conferencing software,Y,N
+Software Developers,jQuery,Object or component oriented development software,Y,N
+Software Developers,3M Post-it App,Word processing software,N,N
+Software Developers,A programming language APL,Development environment software,N,N
+Software Developers,ABC Compiler,Development environment software,N,N
+Software Developers,ABC: the AspectBench Compiler for AspectJ,Object or component oriented development software,N,N
+Software Developers,ADO.NET,Data base user interface and query software,N,N
+Software Developers,AWK,Development environment software,N,N
+Software Developers,Ada,Development environment software,N,N
+Software Developers,Adobe ActionScript,Development environment software,N,N
+Software Developers,Adobe Dreamweaver,Web page creation and editing software,N,N
+Software Developers,Adobe Flex,Web platform development software,N,N
+Software Developers,Advanced business application programming ABAP,Object or component oriented development software,N,N
+Software Developers,Airtable,Data base user interface and query software,N,N
+Software Developers,Algorithmic language ALGOL,Development environment software,N,N
+Software Developers,Allaire ColdFusion,Web platform development software,N,N
+Software Developers,Amazon Kinesis,Data base management system software,N,N
+Software Developers,Amazon Simple Storage Service S3,Storage networking software,N,N
+Software Developers,American National Standards Institute ANSI C,Development environment software,N,N
+Software Developers,Apache Ant,Development environment software,N,N
+Software Developers,Apache Avro,Information retrieval or search software,N,N
+Software Developers,Apache Flume,Data base management system software,N,N
+Software Developers,Apache Groovy,Object or component oriented development software,N,N
+Software Developers,Apache HBase,Data base management system software,N,N
+Software Developers,Apache HTTP Server,Portal server software,N,N
+Software Developers,Apache Oozie,Data base management system software,N,N
+Software Developers,Apache Pig,Data base management system software,N,N
+Software Developers,Apache Solr,Data base management system software,N,N
+Software Developers,Apache Struts,Web platform development software,N,N
+Software Developers,Atlassian Bamboo,Enterprise application integration software,N,N
+Software Developers,Automated installation software,Configuration management software,N,N
+Software Developers,B-Method,Development environment software,N,N
+Software Developers,Backbone.js,Web platform development software,N,N
+Software Developers,Backup and archival software,Backup or archival software,N,N
+Software Developers,Beginner's all-purpose symbolic instruction code BASIC,Development environment software,N,N
+Software Developers,Bigloo Scheme,Development environment software,N,N
+Software Developers,Blackbaud The Raiser's Edge,Customer relationship management CRM software,N,N
+Software Developers,Blackboard software,Data base user interface and query software,N,N
+Software Developers,Blink,Instant messaging software,N,N
+Software Developers,Call-processing language CPL,Development environment software,N,N
+Software Developers,Canu,Development environment software,N,N
+Software Developers,Cisco IOS,Operating system software,N,N
+Software Developers,Citrix cloud computing software,Access software,N,N
+Software Developers,Collaborative Application Markup Language CAML,Object or component oriented development software,N,N
+Software Developers,Common Lisp Object System CLOS,Object or component oriented development software,N,N
+Software Developers,Common business oriented language COBOL,Development environment software,N,N
+Software Developers,Component object model COM software,Object or component oriented development software,N,N
+Software Developers,Component-based Scalable Logical Architecture CSLA,Object or component oriented development software,N,N
+Software Developers,Computer Associates integrated data management system CA-IDMS,Data base management system software,N,N
+Software Developers,Computer On-line Real-time Applications Language CORAL 66,Development environment software,N,N
+Software Developers,Customer information control system CICS,Transaction server software,N,N
+Software Developers,Data analysis software,Analytical or scientific software,N,N
+Software Developers,Data definition language DDL,Data base management system software,N,N
+Software Developers,Data manipulation language DML,Data base management system software,N,N
+Software Developers,DataVision,Data base reporting software,N,N
+Software Developers,Defect tracking software,Program testing software,N,N
+Software Developers,Delphi Technology,Financial analysis software,N,N
+Software Developers,Deployment software,Configuration management software,N,N
+Software Developers,Disk operating system DOS,Operating system software,N,N
+Software Developers,Distributed component object model DCOM software,Object or component oriented development software,N,N
+Software Developers,Distributed database management software,Data base management system software,N,N
+Software Developers,Document Object Model DOM Scripting,Object or component oriented development software,N,N
+Software Developers,Document management system software,Document management software,N,N
+Software Developers,Dropbox,Cloud-based data access and sharing software,N,N
+Software Developers,Drupal,Web platform development software,N,N
+Software Developers,Dynamic analysis software,Program testing software,N,N
+Software Developers,Dynamic hypertext markup language DHTML,Web platform development software,N,N
+Software Developers,Dynamic modeling software,Analytical or scientific software,N,N
+Software Developers,E++ pattern language,Object or component oriented development software,N,N
+Software Developers,Eclipse Jersey,Web platform development software,N,N
+Software Developers,Eiffel,Object or component oriented development software,N,N
+Software Developers,Embarcadero Delphi,Object or component oriented development software,N,N
+Software Developers,Embarcadero JBuilder,Development environment software,N,N
+Software Developers,Embedded systems development software,Development environment software,N,N
+Software Developers,Emerald Software Group Emerald Green Office,Content workflow software,N,N
+Software Developers,Encryption software,Transaction security and virus protection software,N,N
+Software Developers,Enterprise JavaBeans,Web platform development software,N,N
+Software Developers,Enterprise application integration EAI software,Enterprise application integration software,N,N
+Software Developers,Event-driven State-machines Programming,Development environment software,N,N
+Software Developers,Evernote,Word processing software,N,N
+Software Developers,Ext JS,Web platform development software,N,N
+Software Developers,Extensible hypertext markup language XHTML,Web platform development software,N,N
+Software Developers,Extensible stylesheet language transformations XSLT,Web platform development software,N,N
+Software Developers,FaceTime,Video conferencing software,N,N
+Software Developers,Fault testing software,Program testing software,N,N
+Software Developers,File server software,Filesystem software,N,N
+Software Developers,FileMaker Pro,Data base user interface and query software,N,N
+Software Developers,Firewall software,Network security and virtual private network VPN equipment software,N,N
+Software Developers,Flipgrid,Video creation and editing software,N,N
+Software Developers,Formula translation/translator FORTRAN,Development environment software,N,N
+Software Developers,Forth,Development environment software,N,N
+Software Developers,Functional testing software,Program testing software,N,N
+Software Developers,GNU Image Manipulation Program GIMP,Graphics or photo imaging software,N,N
+Software Developers,Gambit Scheme,Development environment software,N,N
+Software Developers,Google Cloud software,Cloud-based management software,N,N
+Software Developers,Google Drive,Cloud-based data access and sharing software,N,N
+Software Developers,Google Gmail,Electronic mail software,N,N
+Software Developers,Google Meet,Video conferencing software,N,N
+Software Developers,Google Sites,Web page creation and editing software,N,N
+Software Developers,Google Slides,Presentation software,N,N
+Software Developers,Gradle,Object or component oriented development software,N,N
+Software Developers,Graphical user interface GUI builder software,Graphical user interface development software,N,N
+Software Developers,Graphical user interface GUI design software,Graphical user interface development software,N,N
+Software Developers,GroupMe,Instant messaging software,N,N
+Software Developers,Haskell,Development environment software,N,N
+Software Developers,Hewlett Packard HP-UX,Operating system software,N,N
+Software Developers,Hewlett Packard LoadRunner,Program testing software,N,N
+Software Developers,IBM AIX,Operating system software,N,N
+Software Developers,IBM Cognos Impromptu,Business intelligence and data analysis software,N,N
+Software Developers,IBM Domino,Communications server software,N,N
+Software Developers,IBM InfoSphere DataStage,Enterprise application integration software,N,N
+Software Developers,IBM Middleware,Transaction server software,N,N
+Software Developers,IBM Notes,Electronic mail software,N,N
+Software Developers,IBM Power Systems software,Enterprise system management software,N,N
+Software Developers,IBM Rational ClearCase,Configuration management software,N,N
+Software Developers,IBM Rational ClearQuest,Development environment software,N,N
+Software Developers,IBM Rational PurifyPlus,Program testing software,N,N
+Software Developers,IBM Rational RequisitePro,Requirements analysis and system architecture software,N,N
+Software Developers,IBM Rational Rose XDE,Development environment software,N,N
+Software Developers,IBM WebSphere,Cloud-based management software,N,N
+Software Developers,IBM z/OS operating systems,Network operation system software,N,N
+Software Developers,ICON programming language,Development environment software,N,N
+Software Developers,IEA Software Emerald,Data base user interface and query software,N,N
+Software Developers,Integrated development environment IDE software,Development environment software,N,N
+Software Developers,Integration testing software,Program testing software,N,N
+Software Developers,Interface definition language IDL,Development environment software,N,N
+Software Developers,Interoperability testing software,Program testing software,N,N
+Software Developers,Interstate connection ICON,Development environment software,N,N
+Software Developers,J,Development environment software,N,N
+Software Developers,JFrog Artifactory,Development environment software,N,N
+Software Developers,JamBoard,Graphics or photo imaging software,N,N
+Software Developers,JavaScript framework software,Web platform development software,N,N
+Software Developers,Job control language JCL,Operating system software,N,N
+Software Developers,Jupyter Notebook,Object or component oriented development software,N,N
+Software Developers,KornShell,Operating system software,N,N
+Software Developers,Kotlin,Development environment software,N,N
+Software Developers,LAMP Stack,Web platform development software,N,N
+Software Developers,LexisNexis,Information retrieval or search software,N,N
+Software Developers,LibreOffice,Office suite software,N,N
+Software Developers,LinkedIn,Web page creation and editing software,N,N
+Software Developers,List processing language LISP,Development environment software,N,N
+Software Developers,Load testing software,Program testing software,N,N
+Software Developers,LogMeIn GoToMeeting,Video conferencing software,N,N
+Software Developers,LogMeIn GoToWebinar,Network conferencing software,N,N
+Software Developers,Loom,Video creation and editing software,N,N
+Software Developers,MUMPS M,Development environment software,N,N
+Software Developers,Magellan Firmware,Operating system software,N,N
+Software Developers,Management information systems MIS,Enterprise resource planning ERP software,N,N
+Software Developers,MathWorks Simulink,Analytical or scientific software,N,N
+Software Developers,McAfee,Transaction security and virus protection software,N,N
+Software Developers,MicroStrategy,Business intelligence and data analysis software,N,N
+Software Developers,Microservices Architecture,Application server software,N,N
+Software Developers,Microsoft ASP.NET Core MVC,Web platform development software,N,N
+Software Developers,Microsoft ActiveX,Object or component oriented development software,N,N
+Software Developers,Microsoft Azure DevOps Services,Development environment software,N,N
+Software Developers,Microsoft DirectX,Device drivers or system software,N,N
+Software Developers,Microsoft Dynamics,Enterprise resource planning ERP software,N,N
+Software Developers,Microsoft Dynamics GP,Enterprise resource planning ERP software,N,N
+Software Developers,Microsoft ESP SDK,Development environment software,N,N
+Software Developers,Microsoft Exchange,Electronic mail software,N,N
+Software Developers,Microsoft Internet Information Services (IIS),Transaction server software,N,N
+Software Developers,Microsoft OneNote,Word processing software,N,N
+Software Developers,Microsoft Publisher,Desktop publishing software,N,N
+Software Developers,Microsoft Visual Basic Scripting Edition VBScript,Development environment software,N,N
+Software Developers,Microsoft Visual Basic.NET,Object or component oriented development software,N,N
+Software Developers,Microsoft Visual C# .NET,Object or component oriented development software,N,N
+Software Developers,Microsoft transact-structural query language T-SQL,Data base management system software,N,N
+Software Developers,Migration software,Platform interconnectivity software,N,N
+Software Developers,Migration testing software,Program testing software,N,N
+Software Developers,Minitab,Analytical or scientific software,N,N
+Software Developers,Modula,Object or component oriented development software,N,N
+Software Developers,Moodle,Computer based training software,N,N
+Software Developers,MuleSoft software,Enterprise application integration software,N,N
+Software Developers,Mutation testing software,Program testing software,N,N
+Software Developers,Nagios,Network monitoring software,N,N
+Software Developers,National Instruments LabVIEW,Development environment software,N,N
+Software Developers,NetSuite ERP,Enterprise resource planning ERP software,N,N
+Software Developers,NortonLifeLock cybersecurity software,Transaction security and virus protection software,N,N
+Software Developers,Oberon,Object or component oriented development software,N,N
+Software Developers,Object Management Group Object Request Broker,Transaction server software,N,N
+Software Developers,Objective C,Object or component oriented development software,N,N
+Software Developers,Objective Caml,Object or component oriented development software,N,N
+Software Developers,Open Graphics Library OpenGL,Graphics or photo imaging software,N,N
+Software Developers,OpenAI ChatGPT,Development environment software,N,N
+Software Developers,Operating system shells,Operating system software,N,N
+Software Developers,Oracle Application Server,Application server software,N,N
+Software Developers,Oracle Business Intelligence Discoverer,Data base reporting software,N,N
+Software Developers,Oracle Business Intelligence Enterprise Edition,Business intelligence and data analysis software,N,N
+Software Developers,Oracle Business Intelligence Suite,Data base reporting software,N,N
+Software Developers,Oracle E-Business Suite Financials,Financial analysis software,N,N
+Software Developers,Oracle Eloqua,Customer relationship management CRM software,N,N
+Software Developers,Oracle Fusion Applications,Enterprise resource planning ERP software,N,N
+Software Developers,Oracle Fusion Middleware,Enterprise application integration software,N,N
+Software Developers,Oracle Hyperion,Enterprise resource planning ERP software,N,N
+Software Developers,Oracle JD Edwards EnterpriseOne,Enterprise resource planning ERP software,N,N
+Software Developers,Oracle JDBC,Data base user interface and query software,N,N
+Software Developers,Oracle Java Message Service JMS,Object or component oriented development software,N,N
+Software Developers,Oracle JavaServer Pages JSP,Web platform development software,N,N
+Software Developers,Oracle PeopleSoft Financials,Enterprise resource planning ERP software,N,N
+Software Developers,Oracle Reports,Data base reporting software,N,N
+Software Developers,Oracle Solaris,Operating system software,N,N
+Software Developers,Oracle WebLogic Server,Application server software,N,N
+Software Developers,Pascal,Development environment software,N,N
+Software Developers,Patch management software,Configuration management software,N,N
+Software Developers,Perforce Helix software,Configuration management software,N,N
+Software Developers,Platform as a service PaaS,Cloud-based data access and sharing software,N,N
+Software Developers,Programming language one PL/I,Development environment software,N,N
+Software Developers,Prolog,Development environment software,N,N
+Software Developers,PuTTY,Access software,N,N
+Software Developers,QNX,Operating system software,N,N
+Software Developers,Qlik Tech QlikView,Business intelligence and data analysis software,N,N
+Software Developers,Quest Erwin Data Modeler,Metadata management software,N,N
+Software Developers,RabbitMQ,Object or component oriented development software,N,N
+Software Developers,React Native,Web platform development software,N,N
+Software Developers,React Redux,Web platform development software,N,N
+Software Developers,Real time operating system RTOS software,Operating system software,N,N
+Software Developers,Recovery testing software,Program testing software,N,N
+Software Developers,Red Hat Ansible Engine,Configuration management software,N,N
+Software Developers,Red Hat WildFly,Application server software,N,N
+Software Developers,Regression testing software,Program testing software,N,N
+Software Developers,Relational database management software,Data base management system software,N,N
+Software Developers,Requirements management software,Requirements analysis and system architecture software,N,N
+Software Developers,Restructured extended executor REXX,Development environment software,N,N
+Software Developers,Ruby on Rails,Web platform development software,N,N
+Software Developers,SAP Adaptive Server Enterprise,Data base management system software,N,N
+Software Developers,SAP Business Intelligence,Data base reporting software,N,N
+Software Developers,SAP Business Objects,Enterprise resource planning ERP software,N,N
+Software Developers,SAP Crystal Reports,Data base reporting software,N,N
+Software Developers,SAP NetWeaver,Enterprise application integration software,N,N
+Software Developers,SAP PowerBuilder,Object or component oriented development software,N,N
+Software Developers,Salesforce Visualforce,Graphical user interface development software,N,N
+Software Developers,Scheme,Development environment software,N,N
+Software Developers,Screencastify,Video creation and editing software,N,N
+Software Developers,Security testing software,Program testing software,N,N
+Software Developers,Simple API for XML SAX,Object or component oriented development software,N,N
+Software Developers,Simulation program with integrated circuit emphasis SPICE,Analytical or scientific software,N,N
+Software Developers,Single sign-on SSO,Authentication server software,N,N
+Software Developers,Skype,Desktop communications software,N,N
+Software Developers,Smalltalk,Object or component oriented development software,N,N
+Software Developers,SmugMug Flickr,Graphics or photo imaging software,N,N
+Software Developers,Social media sites,Web page creation and editing software,N,N
+Software Developers,Software development tools,Development environment software,N,N
+Software Developers,Software distribution management software,Administration software,N,N
+Software Developers,Software libraries,Development environment software,N,N
+Software Developers,SonarQube,Program testing software,N,N
+Software Developers,Source code editor software,Program testing software,N,N
+Software Developers,StataCorp Stata,Analytical or scientific software,N,N
+Software Developers,Static analysis software,Program testing software,N,N
+Software Developers,Storage area network SAN software,Storage networking software,N,N
+Software Developers,Stress testing software,Program testing software,N,N
+Software Developers,String oriented symbolic language SNOBOL,Development environment software,N,N
+Software Developers,Structured Query Report SQR,Data base management system software,N,N
+Software Developers,Sun Microsystems Java Persistence API,Object or component oriented development software,N,N
+Software Developers,Symantec Visual Cafe,Development environment software,N,N
+Software Developers,System testing software,Program testing software,N,N
+Software Developers,Talend Big Data Integration,Data base management system software,N,N
+Software Developers,Talend Data Fabric,Metadata management software,N,N
+Software Developers,Test design software,Program testing software,N,N
+Software Developers,Test implementation software,Program testing software,N,N
+Software Developers,Ubuntu,Operating system software,N,N
+Software Developers,Unified modeling language UML,Requirements analysis and system architecture software,N,N
+Software Developers,Unit testing software,Program testing software,N,N
+Software Developers,Usability testing software,Program testing software,N,N
+Software Developers,VMware,Clustering software,N,N
+Software Developers,Verilog,Development environment software,N,N
+Software Developers,Veritas NetBackup,Backup or archival software,N,N
+Software Developers,Version control software,File versioning software,N,N
+Software Developers,Virtual private networking VPN software,Network security and virtual private network VPN equipment software,N,N
+Software Developers,Visible Razor,Configuration management software,N,N
+Software Developers,Voice over internet protocol VoIP system software,Internet protocol IP multimedia subsystem software,N,N
+Software Developers,Web application software,Development environment software,N,N
+Software Developers,Web server software,Transaction server software,N,N
+Software Developers,Web service definition language WDSL,Development environment software,N,N
+Software Developers,Win CE,Operating system software,N,N
+Software Developers,Wind River VxWorks,Operating system software,N,N
+Software Developers,Wireshark,Network monitoring software,N,N
+Software Developers,XML Path Language XPATH,Development environment software,N,N
+Software Developers,Xcode,Development environment software,N,N
+Software Developers,YouTube,Video creation and editing software,N,N

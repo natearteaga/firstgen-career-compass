@@ -1,0 +1,31 @@
+role_title,skill_name,importance_score
+Business Intelligence Analysts,Reading Comprehension,4.00
+Business Intelligence Analysts,Active Learning,3.88
+Business Intelligence Analysts,Active Listening,3.88
+Business Intelligence Analysts,Critical Thinking,3.88
+Business Intelligence Analysts,Speaking,3.88
+Business Intelligence Analysts,Writing,3.75
+Business Intelligence Analysts,Mathematics,3.50
+Business Intelligence Analysts,Monitoring,3.12
+Business Intelligence Analysts,Learning Strategies,3.00
+Business Intelligence Analysts,Science,1.62
+Data Scientists,Mathematics,4.38
+Data Scientists,Critical Thinking,4.25
+Data Scientists,Reading Comprehension,3.88
+Data Scientists,Active Learning,3.62
+Data Scientists,Speaking,3.62
+Data Scientists,Active Listening,3.50
+Data Scientists,Writing,3.50
+Data Scientists,Monitoring,3.25
+Data Scientists,Learning Strategies,2.75
+Data Scientists,Science,2.50
+Software Developers,Critical Thinking,3.88
+Software Developers,Active Learning,3.50
+Software Developers,Reading Comprehension,3.50
+Software Developers,Active Listening,3.38
+Software Developers,Writing,3.25
+Software Developers,Speaking,3.12
+Software Developers,Monitoring,3.00
+Software Developers,Mathematics,2.75
+Software Developers,Learning Strategies,2.62
+Software Developers,Science,2.12

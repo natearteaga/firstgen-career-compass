@@ -55,6 +55,18 @@ For each target role, the project will collect:
 
 The first O*NET ingestion step will use the role mappings in `data/reference/target_roles.csv` to determine which occupations are in scope.
 
+The raw O*NET files are stored in `data/raw/onet/` and are kept unchanged. The ingestion script filters those files to the three target O*NET-SOC codes and writes project-specific processed files to `data/processed/`.
+
+Current processed outputs:
+
+- `onet_role_occupation_data.csv`
+- `onet_role_skills.csv`
+- `onet_role_knowledge.csv`
+- `onet_role_tasks.csv`
+- `onet_role_software_skills.csv`
+
+Dashboard-ready exports are written to `dashboard/exports/`.
+
 ## Possible Additional Sources
 
 Bureau of Labor Statistics data may be added for labor-market context such as employment levels, growth, and wages.
@@ -106,5 +118,11 @@ The dashboard should help viewers quickly understand:
 - Recommended resources and next steps
 
 The dashboard is a communication layer, not the analytical engine. The core logic should remain in Python and SQL so the process is reproducible.
+
+Initial dashboard-ready exports include:
+
+- Top skills by role
+- Shared skills across all three roles
+- Software and technology tools by role
 
 Note: The Data Analyst role will initially use O*NET's Data Scientists occupation as a proxy because O*NET does not provide a perfect one-to-one entry-level Data Analyst match. This limitation is documented in `docs/assumptions_limitations.md`.

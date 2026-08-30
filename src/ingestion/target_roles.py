@@ -20,7 +20,7 @@ def load_target_roles():
         roles = list(reader)
 
         if not roles:
-            raise ValueError("No target roles found in {TARGET_ROLES_FILE}")
+            raise ValueError(f"No target roles found in {TARGET_ROLES_FILE}")
         return roles
 
 # main function to demonstrate reading the target roles
