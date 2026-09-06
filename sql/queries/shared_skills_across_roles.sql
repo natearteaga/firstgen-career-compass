@@ -1,14 +1,19 @@
 -- Skills that appear across all three target roles.
--- Assumes processed O*NET skills data has been loaded into role_skills_raw.
+-- Uses the cleaned PostgreSQL tables: roles, skills, and role_skills.
 
 SELECT
-    element_name AS skill_name,
-    COUNT(DISTINCT title) AS role_count,
-    AVG(data_value) AS avg_importance_score
-FROM role_skills_raw
-WHERE scale_name = 'Importance'
-GROUP BY element_name
-HAVING COUNT(DISTINCT title) = 3
+    s.skill_name,
+    COUNT(DISTINCT r.role_id) AS role_count,
+    ROUND(AVG(rs.importance_score), 2) AS avg_importance_score
+FROM role_skills rs
+INNER JOIN roles r
+    ON rs.role_id = r.role_id
+INNER JOIN skills s
+    ON rs.skill_id = s.skill_id
+GROUP BY
+    s.skill_name
+HAVING
+    COUNT(DISTINCT r.role_id) = 3
 ORDER BY
     avg_importance_score DESC,
-    skill_name;
+    s.skill_name;
