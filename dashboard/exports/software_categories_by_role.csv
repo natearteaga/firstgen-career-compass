@@ -1,0 +1,44 @@
+role_name,software_category,tool_count
+Business Intelligence Analysts,Development environment software,18
+Business Intelligence Analysts,Web platform development software,17
+Business Intelligence Analysts,Data base user interface and query software,14
+Business Intelligence Analysts,Data base management system software,13
+Business Intelligence Analysts,Object or component oriented development software,13
+Business Intelligence Analysts,Operating system software,12
+Business Intelligence Analysts,Enterprise resource planning ERP software,11
+Business Intelligence Analysts,Business intelligence and data analysis software,9
+Business Intelligence Analysts,Data base reporting software,8
+Business Intelligence Analysts,Analytical or scientific software,6
+Business Intelligence Analysts,Enterprise application integration software,6
+Business Intelligence Analysts,Data mining software,5
+Business Intelligence Analysts,Medical software,5
+Data Scientists,Data base user interface and query software,12
+Data Scientists,Object or component oriented development software,11
+Data Scientists,Development environment software,10
+Data Scientists,Analytical or scientific software,9
+Data Scientists,Business intelligence and data analysis software,8
+Data Scientists,Data base management system software,8
+Data Scientists,Operating system software,5
+Software Developers,Development environment software,66
+Software Developers,Object or component oriented development software,38
+Software Developers,Web platform development software,35
+Software Developers,Data base management system software,25
+Software Developers,Operating system software,25
+Software Developers,Program testing software,25
+Software Developers,Data base user interface and query software,20
+Software Developers,Enterprise resource planning ERP software,13
+Software Developers,Application server software,11
+Software Developers,Enterprise application integration software,11
+Software Developers,Analytical or scientific software,10
+Software Developers,Configuration management software,10
+Software Developers,Business intelligence and data analysis software,8
+Software Developers,Graphics or photo imaging software,8
+Software Developers,Data base reporting software,7
+Software Developers,Cloud-based management software,6
+Software Developers,Graphical user interface development software,5
+Software Developers,Project management software,5
+Software Developers,Transaction server software,5
+Software Developers,Video conferencing software,5
+Software Developers,Video creation and editing software,5
+Software Developers,Web page creation and editing software,5
+Software Developers,Word processing software,5
